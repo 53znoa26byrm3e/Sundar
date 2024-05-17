@@ -12,7 +12,7 @@ git clone https://github.com/v7sr14ul2x9/Sundar.git
 cargo build --release
 ```
 
-then add the path ~/Sundar/target/debug to your environment variables
+then add the path ~/Sundar/target/release to your environment variables
 
 # Usage 
 
