@@ -8,5 +8,5 @@ pub fn banner() {
 }
 
 pub fn copyright() {
-    println!("\nhttps://github.com/v7sr14ul2x9/Sundar\n");
+    println!("\nhttps://github.com/yq93dskimzm2/Sundar\n");
 }
